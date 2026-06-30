@@ -1,1 +1,19 @@
+body{
+    background-color:#335E0E;;
+    color: #F3FFB3;
 
+}
+header{
+    background-color: black;
+    color: #000;
+
+}
+section{
+    background-color: #335E0E;
+    color: aqua;
+
+}
+footer{
+    background-color: bisque;
+    color:#F3FFB3;
+}
