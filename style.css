@@ -5,12 +5,12 @@ body{
 }
 header{
     background-color: black;
-    color: #000;
+    color: #474545;
 
 }
 section{
-    background-color: #335E0E;
-    color: aqua;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
 
 }
 footer{
