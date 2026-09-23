@@ -4,8 +4,8 @@ body{
 
 }
 header{
-    background-color: black;
-    color: #474545;
+    background-color: rgb(34, 34, 34);
+    color: #858484;
 
 }
 section{
@@ -16,4 +16,23 @@ section{
 footer{
     background-color: rgb(252, 223, 188);
     color:#F3FFB3;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9b4d83;
+}
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
 }
