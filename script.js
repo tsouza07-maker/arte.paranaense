@@ -1,15 +1,15 @@
 const botoesCutir = document.querySeletorAll(".curtir");
-botoesCutir.forEach(function (botaoCurtir){
+botoesCutir.forEach(function(botaoCurtir){
     let curtir = false;
     botaoCurtir.addEventListeer("click", curtir);
 function curtir(){
     const contador = botaoCurtir.querySeletor("span");
-    if(curiu === false){  
+    if(curtir === false){  
         contador.textContent++;
-        curiu = true;
+        curtir = true;
 } else{
     contador.textContent--;
-    curtiu = false;
+    curtir = false;
 
 }
 }
